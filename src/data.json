@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Jean Pant",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuCyDp5ay6SByu_TYjkmdV1MaoEeR9lI1I80g75ZvloCTA1vxH_qGvP8TNea6NNvf0OBI&usqp=CAU",
+        "price": 19.99
+    },
+    {
+        "id": 2,
+        "name": "Blue Jean",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbWWerEjTBkC2aDlEJOku_6sfKQPCWu5bwvg&usqp=CAU",
+        "price": 12.29
+    },
+    {
+        "id": 3,
+        "name": "Stylish Pant",
+        "image": "https://n.nordstrommedia.com/id/sr3/99fb3c8a-4f95-46c7-a00d-095693581a07.jpeg?h=365&w=240&dpr=2",
+        "price": 13.54
+    },
+    {
+        "id": 4,
+        "name": "Cargo pant",
+        "image": "https://cdna.lystit.com/400/500/tr/photos/revolveclothing/6c209226/favorite-daughter-Blue-The-Carly.jpeg",
+        "price": 39.29
+    },
+    {
+        "id": 5,
+        "name": "Jacket",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJi8RUx4VVQAK2h9J3HrazSGagQJ_v-TEZtCtWW1MdHEk5dOgKvSC_YOW99C1QTMU7NGY&usqp=CAU",
+        "price": 11.99
+    },
+    {
+        "id": 6,
+        "name": "Short",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAkM7SP0J1o84Mqlwem31A6lHcGOTmSH-f_w&usqp=CAU",
+        "price": 29.99
+    },
+    {
+        "id": 7,
+        "name": "Cargo pant",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTV86Icid5Z50WrFXBCv84BxEBqFQpK7JItg&usqp=CAU",
+        "price": 39.29
+    },
+    {
+        "id": 8,
+        "name": "Jacket",
+        "image": "https://www.travelandleisure.com/thmb/UrUHeNXDtFmj6hrpLMw_ldr8snk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tl-best-travel-clothes-and-accessories-for-women-tout-b3376df4cd7a48509d7c4025d0508ed5.jpg",
+        "price": 11.99
+    },
+    {
+        "id": 9,
+        "name": "Short",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK_1lBiK-2np03zJSV_x80hfDBSP86DW_crw&usqp=CAU",
+        "price": 29.99
+    }
+]
